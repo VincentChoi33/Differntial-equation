@@ -9,4 +9,20 @@ In this process, mathmatical model might be represented equiation as derivative 
 
 There are many kinds of Models 
 
-So let's study DE
+So let's study DE(differential equation
+
+
+DE has two branches
+
+The first one is Ordinary differential equation
+
+When the unknown function(DE) has one variable
+
+We call it as ODE
+
+
+The other one is Partial differential equation
+
+When the unknown function(DE) has two or more variables
+
+We call it as PDE
