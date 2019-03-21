@@ -11,3 +11,10 @@ we divided each DE with two criterion
 2. each coefficient only depends on independent variable x
 
 Other equations are nonlinear equation
+
+
+Not every ODE has solutions.
+
+When the ODE has solutions,
+-If the ODE has initial condition, this solution is called *particular solution*
+-If the ODE doen't have initial condition, this solution is called *general solution*
