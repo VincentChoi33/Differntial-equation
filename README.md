@@ -10,7 +10,7 @@ In this process, mathmatical model might be represented equiation as derivative 
 There are many kinds of Models 
 
 
-# So let's study DE(differential equation)
+### So let's study DE(differential equation)
 
 
 *DE has two branches*
